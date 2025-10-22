@@ -87,7 +87,7 @@ This project was a fantastic way to apply beginner Python concepts. I learned ho
     
 *   Use if/else conditional logic to check guesses, lives, and win/loss conditions.
 
-### here are some screenshot of it will look
+### here are some screenshot of how it will look
 
 <img width="1861" height="926" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/cb9deebb-601a-45ae-af70-ec6a16ab22d8" />
 <img width="1920" height="918" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/4c26e95a-5857-4f3c-abb8-4d9a0d13c0b8" />
